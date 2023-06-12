@@ -49,6 +49,11 @@
 
 ![Desktop 2023 06 12 - 22 31 12 03](https://github.com/NimaDosOFF/UnityProject/assets/133951460/17d1b8f4-aa69-40a9-a31d-4946dab2503b)
 
+## Контакты
+- VK : [Дмитрий Носов](https://vk.com/nimadosov)
+- [Telegram](https://t.me/dosoff)
+- mail : noa3eng#yandex.ru
+
 
 
 
