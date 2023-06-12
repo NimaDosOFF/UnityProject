@@ -1,6 +1,3 @@
-# UnityProject
-
-
 
 # Создание своей локации в Unity
 ![image](https://github.com/NimaDosOFF/UnityProject/assets/133951460/0e016e90-6107-4152-8f45-fee6ee7b36f4)
@@ -43,6 +40,9 @@
 Во втором компоненте добавил желаемые эффекты.
 
 Готово! Теперь когда персонаж будет заходить в область нашего пустого объекта, к нему будут применяться эффекты.
+
+![Desktop 2023 06 12 - 22 31 12 03](https://github.com/NimaDosOFF/UnityProject/assets/133951460/17d1b8f4-aa69-40a9-a31d-4946dab2503b)
+
 
 
 
