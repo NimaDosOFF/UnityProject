@@ -3,6 +3,7 @@
 
 ![image](https://github.com/NimaDosOFF/UnityProject/assets/133951460/d05e27db-5bed-42b0-929e-31b35f0c2f8d)
 
+# Приступим
 
 Для создания локации требуется объект  `"Terrain"`. Используя его создаем неровности и горы.
 
