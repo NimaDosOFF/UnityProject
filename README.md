@@ -21,4 +21,11 @@
 
 ![image](https://github.com/NimaDosOFF/UnityProject/assets/133951460/f8998673-f888-4364-9b50-bbe6ce1d5f47)
 
+На небе я разместил облака, поставил на горе домик с кузнечиком и добавил всяких объектов на пляж.
+
+![image](https://github.com/NimaDosOFF/UnityProject/assets/133951460/9ac0495b-22ec-4558-93aa-a24c2994e9cf)
+
+![image](https://github.com/NimaDosOFF/UnityProject/assets/133951460/72ff7f5b-0b18-4d6a-acc1-a28b7768c4e6)
+
+
 
