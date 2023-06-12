@@ -1,7 +1,12 @@
 
 # Создание своей локации в Unity
-![image](https://github.com/NimaDosOFF/UnityProject/assets/133951460/0e016e90-6107-4152-8f45-fee6ee7b36f4)
+
+![image](https://github.com/NimaDosOFF/UnityProject/assets/133951460/d05e27db-5bed-42b0-929e-31b35f0c2f8d)
+
+
 Для создания локации требуется объект  `"Terrain"`. Используя его создаем неровности и горы.
+
+![image](https://github.com/NimaDosOFF/UnityProject/assets/133951460/0e016e90-6107-4152-8f45-fee6ee7b36f4)
 
 Для редактирования местности используется кисть `"Paint Terrain"` 
 
